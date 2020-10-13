@@ -2,11 +2,14 @@
 
     console.log("Setença de código");
 
-    {
-        //Bloco de código, tem a função de juntar comandos de código.
+    
+    //Bloco de código, tem a função de juntar comandos de código.
+        {
+            
+        }
         console.log("Olá");
         console.log("Mundo!") //Não há necessidade de fechar o código com o ";"
-    }
+    
 
 // Executando o javascript
 
