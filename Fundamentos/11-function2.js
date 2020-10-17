@@ -20,3 +20,7 @@ const subtracao = (a, b) => a - b;
 
 console.log(subtracao(3,1));
 
+const imprimir = (a) => console.log(a);
+
+imprimir("Olá Mundo!");
+
